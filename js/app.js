@@ -1,7 +1,6 @@
 // Student ID: 134455203
 // Email: jdsouza20@myseneca.ca
 // Student: Jordan D'Souza
-// Date:
 
 let map;
 
